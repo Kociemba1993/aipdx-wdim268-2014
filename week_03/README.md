@@ -1,1 +1,9 @@
-Submit your website write-up below here and push back to your branch.
+I thought it would be interesting to checkout a site that pretty much all of us, I am sure have used many years ago. That was of course before Facebook. I wanted to see what the new site looked like compared to when I had used this website. 
+
+It was interesting to see the modern design that they have converted to compared to the old design. MySpace used to be hard to use when they kept making changes and updates to it. This is why more and more people switched over to Facebook, which was very user friendly, compared to this site. Facebook also has not changed tragically since they first launched the site. 
+ 
+When I first entered the site, my first thoughts were that it was fully loaded with JavaScript. The site has a great layout to it; you can easily navigate through this site. It also has a very beautiful layout and it is very structured with a grid. My thought was right though, because the moment I turned off the JavaScript the site pretty much just breaks all together besides the navigation bar. The only other page that was not broken was the radio page. All other pages just stay blank. The moment I turn off the css, the page now become accessible but not very organized. There was a lot of extra things especially on the radio page that seemed unnecessary to even be on the html page. 
+
+I tried to see how the page would work if I turned off css and left on JavaScript but it still broke once again as if there was only HTML. They can do so much better to keep this page from breaking if they had a back up plan for when the JavaScript breaks because when we talked in class not all browsers or users enable JavaScript. 
+
+It is a pretty cool roll over effect they use on all of their images through the site. Pretty much the whole site uses this rollover effect. They used a data coding which included data-entity code, data-is-owner, data-image-url, data-title, data-summary, etc. They use the same features through all of the elements in the page. They use event listeners throughout the site to control the elements in the site. 
